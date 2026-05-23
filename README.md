@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-ML classification pipeline predicting sexually transmitted disease (STD) risk from behavioural and demographic features — supporting public health screening and targeted intervention programmes.
+ML classification pipeline predicting sexually transmitted disease (STD) risk from behavioural and demographic features, supporting public health screening and targeted intervention programmes.
 
 ---
 
@@ -52,5 +52,5 @@ python predict.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
